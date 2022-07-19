@@ -5,7 +5,7 @@ A. Cevirgel1,2, S.A. Shetty1,2, M. Vos1, N.M. Nanlohy1, L. Beckers1, E. Bijvank1
 1 Center for Infectious Disease Control, National Institute for Public Health and the Environment, Bilthoven, the Netherlands2Each affiliation should be a separate paragraph.
 2 Department of Medical Microbiology and Infection prevention, Virology and Immunology research group, University Medical Center Groningen, Groningen, the Netherlands
 
-* Corresponding author. Email:  d.van.baarle@umcg.nl
+* Corresponding author. Email:  d[dot]van[dot]baarle[at]umcg[dot]nl
 
 
 For information related to codes and analysis:

@@ -10,7 +10,7 @@ A. Cevirgel<sup>1,2</sup>, S.A. Shetty<sup>1,2</sup>, M. Vos<sup>1</sup>, N.M. N
 
 
 For information related to codes and analysis:
-Alper Cevirgel; alper.cevirgel[@]rivm[dot]nl
+Alper Cevirgel; alpercevirgel[@]gmail[dot]com
 
 For information related to participants and related metadata:
 Debbie van Baarle; d[dot]van[dot]baarle[at]umcg[dot]nl

@@ -6,8 +6,8 @@ output: html_document
 
 # libraries & functions
 ```{r}
-source("codes/libraries.R") #load the libraries
-source("codes/functions.R") #load the functions
+source("libraries.R") #load the libraries
+source("functions.R") #load the functions
 ```
 
 # Influenza pre-vaccination Data import

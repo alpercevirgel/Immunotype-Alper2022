@@ -9,12 +9,11 @@ A. Cevirgel<sup>1,2</sup>, S.A. Shetty<sup>1,2</sup>, M. Vos<sup>1</sup>, N.M. N
 
 <sup>2</sup> Department of Medical Microbiology and Infection prevention, Virology and Immunology research group, University Medical Center Groningen, Groningen, the Netherlands
 
-<sup>*</sup> Corresponding author. Email:  d[dot]van[dot]baarle[at]umcg[dot]nl
+<sup>*</sup> Corresponding author. Email:  d.van.baarle@umcg.nl
 
 
 For information related to codes and analysis:
-Alper Cevirgel; alpercevirgel[@]gmail[dot]com
+Alper Cevirgel; alpercevirgel@gmail.com
 
 For information related to participants and related metadata:
-Debbie van Baarle; d[dot]van[dot]baarle[at]umcg[dot]nl
-Josine van Beek; josine[dot]van[dot]beek[at]rivm[dot]nl
+Debbie van Baarle; d.van.baarle@umcg.nl
